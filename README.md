@@ -94,8 +94,8 @@ export default shaamak;
 | 🚀 [**Startup-Simulation**](https://github.com/Shaamak/Startup-Simulation) | AI Startup Simulator. A full-stack SaaS where you found a virtual startup and an AI engine simulates customers, MRR, churn, competitors and funding rounds (seed → IPO), streamed live over WebSockets | `Next.js` `TypeScript` `Express` `FastAPI` `PostgreSQL` `Redis` `Docker` |
 
 <p align="center">
-  <a href="https://github.com/Shaamak/AI-NIDS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaamak&repo=AI-NIDS&theme=tokyonight&hide_border=true" alt="AI-NIDS" /></a>
-  <a href="https://github.com/Shaamak/Startup-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaamak&repo=Startup-Simulation&theme=tokyonight&hide_border=true" alt="Startup-Simulation" /></a>
+  <a href="https://github.com/Shaamak/AI-NIDS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaamak&repo=AI-NIDS&theme=tokyonight&hide_border=true&v=2" alt="AI-NIDS" /></a>
+  <a href="https://github.com/Shaamak/Startup-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaamak&repo=Startup-Simulation&theme=tokyonight&hide_border=true&v=2" alt="Startup-Simulation" /></a>
 </p>
 
 </details>
