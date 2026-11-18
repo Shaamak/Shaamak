@@ -131,6 +131,7 @@ export default shaamak;
 
 ---
 
+<!-- SNAKE HIDDEN until GitHub Actions works again (account billing lock). Remove this comment line and the matching END line to show it.
 ## 🐍 Contribution snake
 
 <p align="center">
@@ -142,6 +143,7 @@ export default shaamak;
 </p>
 
 ---
+END SNAKE HIDDEN -->
 
 ## 📡 $ ping Shaamak
 
