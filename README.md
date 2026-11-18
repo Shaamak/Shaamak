@@ -9,11 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shaamak&style=flat-square&color=00ff9c&label=profile+views" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Shaamak?style=flat-square&color=2c5364&label=followers" alt="followers" />
-</p>
-
 ---
 
 ## 🖥️ Boot sequence
